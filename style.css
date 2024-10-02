@@ -295,7 +295,7 @@ button:focus{
     position:relative;
     background-attachment: fixed;
     background-color: #0d0c1d;
-    padding: 8em 0 0 6.5em;
+    padding: 8em 0 2em 6.5em;
     margin: 0 0 -7em 0;
   }
 
